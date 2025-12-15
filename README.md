@@ -4,7 +4,7 @@
 :mortar_board:  **Ingeniero de sistemas** (casi graduado)  
 :nerd_face: **Fanático de los teclados custom y del Linux ricing** 
 
-### Tecnologías que he utilizado:
+### Tecnologías que manejo:
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)

@@ -2,7 +2,7 @@
 
 :computer: **Desarrollador web backend**  
 :mortar_board:  **Ingeniero de sistemas** (casi graduado)  
-:nerd_face: **Fanático de los teclados custom y del Linux ricing***  
+:nerd_face: **Fanático de los teclados custom y del Linux ricing** 
 
 ### Tecnologías que he utilizado:
 
